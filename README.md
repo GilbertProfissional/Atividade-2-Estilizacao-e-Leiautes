@@ -8,7 +8,7 @@ Sobre: detalha informações sobre a ONG, seu histórico e objetivos.
 Projetos: lista os projetos sociais em andamento, com oportunidades de voluntariado e informações sobre doações.
 Cadastro: formulário para voluntários e doadores, coletando informações pessoais e endereço.
 Contato: formulário para envio de mensagens à ONG, possibilitando comunicação direta com os visitantes.
-O projeto foi desenvolvido respeitando a semântica HTML5, usando tags como <header>, <main>, <section>, <aside> e <footer> para melhorar a estrutura e acessibilidade do site. Também foram aplicadas práticas de validação de formulários e links internos para facilitar a navegação entre as páginas.
+O projeto foi desenvolvido respeitando a semântica HTML5, usando tags como header, main, section, aside e footer para melhorar a estrutura e acessibilidade do site. Também foram aplicadas práticas de validação de formulários e links internos para facilitar a navegação entre as páginas.
 
 Tecnologias utilizadas
 HTML5
